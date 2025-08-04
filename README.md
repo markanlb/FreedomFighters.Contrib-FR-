@@ -1,8 +1,13 @@
 # Freedom Fighters Community Contributions
 
-This repository is for community members to submit contributions for inclusion in the base package of Freedom Fighters.
+This repository is for community members to submit contributions for inclusion in the base package of [Freedom Fighters](https://www.johnnykerner.dev/FreedomFighters/).
+
+- [How to - translations](how-to-translations.md)
+- [How to - integrations](how-to-integrations.md)
 
 ## Translations status
+
+Last update of the source table: **4th August 2025**.
 
 | Language | In-game | Completion | Comments | Contributors |
 | --- | --- | ---- | --- | --- |
@@ -21,6 +26,6 @@ This repository is for community members to submit contributions for inclusion i
 
 ## Integrations status
 
-| Mod ID | Label | Author | Mod version | Notes |
-| --- | --- | --- | --- | --- |
-|  |  |  |  | - |
+| Mod ID | Label | Author | Mod version | Notes | Contributors |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
