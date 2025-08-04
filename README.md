@@ -2,12 +2,12 @@
 
 This repository is for community members to submit contributions for inclusion in the base package of [Freedom Fighters](https://www.johnnykerner.dev/FreedomFighters/).
 
-- [How to - translations](how-to-translations.md)
-- [How to - integrations](how-to-integrations.md)
+- [How to - translations](docs/how-to-translations.md)
+- [How to - integrations](docs/how-to-integrations.md)
 
 ## Terms
 
-Please make sure to read the project's license and [contribution guidelines](contributing.md) before submitting your work. By submitting a pull request, you are indicating your agreement to the contribution terms.
+Please make sure to read the project's license and [contribution terms](docs/contribution-terms.md) before submitting your work. By submitting a pull request, you are indicating your agreement to the contribution terms.
 
 ## Translations status
 

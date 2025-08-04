@@ -1,4 +1,4 @@
-# Contributing
+# Contribution terms
 
 By submitting any code, documentation, ideas, or other content ("Contribution") to this project, you agree to the following:
 
