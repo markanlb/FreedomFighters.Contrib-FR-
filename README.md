@@ -2,6 +2,8 @@
 
 This repository is for community members to submit contributions for inclusion in the base package of [Freedom Fighters](https://www.johnnykerner.dev/FreedomFighters/).
 
+**Before starting any work it is recommended to get in touch via our Discord to ensure you are not duplicating currently ongoing work.**
+
 - [How to - translations](docs/how-to-translations.md)
 - [How to - integrations](docs/how-to-integrations.md)
 
@@ -44,7 +46,10 @@ Last update of the source table: **4th August 2025**.
 | [631D09484433EB0A](https://reforger.armaplatform.com/workshop/631D09484433EB0A) | FIA Mi-8 | Tiny Cube | 1.0.1 | - | - |
 | [64DC1D98BF48F411](https://reforger.armaplatform.com/workshop/64DC1D98BF48F411) | Metabolism | Hydr0_5kunk | 0.0.30 | - | - |
 | [6528F296E88F783F](https://reforger.armaplatform.com/workshop/6528F296E88F783F) | RTGLaunches | Solix. | 1.0.5 | - | - |
-| - | - | TheSpaceStrider | - | - | - |
+| [5D1880C4AD410C14](https://reforger.armaplatform.com/workshop/5D1880C4AD410C14) | M1 Abrams | TheSpaceStrider | 2.1.14 | - | - |
+| [5E524E4FEECCA92B](https://reforger.armaplatform.com/workshop/5E524E4FEECCA92B) | BMP-1 IFV | TheSpaceStrider | 1.1.3 | - | - |
+| [5E5C154FEE1094BB](https://reforger.armaplatform.com/workshop/5E5C154FEE1094BB) | M113 APC | TheSpaceStrider | 1.1.3 | - | - |
+| [5E0AB16BEB16D6A4](https://reforger.armaplatform.com/workshop/5E0AB16BEB16D6A4) | T-72 Main Battle Tank | TheSpaceStrider | 1.2.17 | - | - |
 | [629B2BA37EFFD577](https://reforger.armaplatform.com/workshop/629B2BA37EFFD577) | WCS_Armaments | Cyborgmatt | 4.0.1 | - | - |
 | [628933A0D3A0D700](https://reforger.armaplatform.com/workshop/628933A0D3A0D700) | WCS_Mi-24V | Tonimontana | 4.0.1 | - | - |
 | [617AC5E57EF1D9E3](https://reforger.armaplatform.com/workshop/617AC5E57EF1D9E3) | WZ Vehicles | TandemHEAT | 1.0.120 | - | - |
