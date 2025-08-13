@@ -19,7 +19,7 @@ Last update of the source table: **4th August 2025**.
 | --- | --- | ---- | --- | --- |
 | cz | :x: | Complete. | Auto-translated, requires full proof-reading. | - |
 | de | :x: | Complete. | Auto-translated, requires full proof-reading. | - |
-| es | :x: | Complete. | Auto-translated, requires full proof-reading. | - |
+| es | :white_check_mark: | Complete. | - | frantik03 |
 | fr | :x: | Complete. | Auto-translated, requires full proof-reading. | - |
 | it | :x: | Complete. | Auto-translated, requires full proof-reading. | - |
 | ja | :x: | Complete. | Auto-translated, requires full proof-reading. | - |
