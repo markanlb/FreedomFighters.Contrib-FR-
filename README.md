@@ -26,7 +26,7 @@ Last update of the source table: **4th August 2025**.
 | ko | :x: | Complete. | Auto-translated, requires full proof-reading. | - |
 | pl | :x: | Complete. | Auto-translated, requires full proof-reading. | - |
 | pt | :white_check_mark: | Complete. | - | mad_junior1704 |
-| ru | :x: | Partial. | Partially auto-translated, requires proof-reading. | - |
+| ru | :white_check_mark: | Complete. | - | thesnakyeyes |
 | uk | :x: | None. | - | - |
 | zh_cn | :x: | None. | - | - |
 
