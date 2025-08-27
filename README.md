@@ -13,22 +13,22 @@ Please make sure to read the project's license and [contribution terms](docs/con
 
 ## Translations status
 
-Last update of the source table: **4th August 2025**.
+Last update of the source table: **28th August 2025**.
 
 | Language | In-game | Completion | Comments | Contributors |
 | --- | --- | ---- | --- | --- |
-| cz | :x: | Complete. | Auto-translated, requires full proof-reading. | - |
-| de | :x: | Complete. | Auto-translated, requires full proof-reading. | - |
-| es | :white_check_mark: | Complete. | - | frantik03 |
-| fr | :white_check_mark: | Complete. | - | et_s |
-| it | :x: | Complete. | Auto-translated, requires full proof-reading. | - |
-| ja | :x: | Complete. | Auto-translated, requires full proof-reading. | - |
-| ko | :x: | Complete. | Auto-translated, requires full proof-reading. | - |
-| pl | :x: | Complete. | Auto-translated, requires full proof-reading. | - |
-| pt | :white_check_mark: | Complete. | - | mad_junior1704 |
-| ru | :white_check_mark: | Complete. | - | thesnakyeyes |
+| cz | :x: | Incomplete. | Partially auto-translated. | - |
+| de | :x: | Incomplete. | Partially auto-translated. | - |
+| es | :white_check_mark: | Incomplete. | - | frantik03 |
+| fr | :white_check_mark: | Incomplete. | - | et_s |
+| it | :x: | Incomplete. | Partially auto-translated. | - |
+| ja | :x: | Incomplete. | Partially auto-translated. | - |
+| ko | :x: | Incomplete. | Partially auto-translated. | - |
+| pl | :x: | Incomplete. | Partially auto-translated. | - |
+| pt | :white_check_mark: | Incomplete. | - | mad_junior1704 |
+| ru | :white_check_mark: | Incomplete. | - | thesnakyeyes |
 | uk | :x: | None. | - | - |
-| zh_cn | :x: | None. | - | - |
+| zh_cn | :white_check_mark: | Incomplete. | - | fantastic_possum_18059 |
 
 ## Integrations status
 
